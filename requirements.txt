@@ -1,0 +1,6 @@
+# Dependencies required for client-server application.
+
+g++.exe == (MinGW.org GCC-6.3.0-1) 6.3.0
+Operating System == Windows 11
+
+
